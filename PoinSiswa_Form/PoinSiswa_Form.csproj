@@ -9,14 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Forms\" />
-    <Folder Include="Model\" />
-    <Folder Include="Automata\" />
     <Folder Include="Config\" />
     <Folder Include="Utils\" />
     <Folder Include="Resource\" />
     <Folder Include="Service\" />
-    <Folder Include="Table_driven\" />
   </ItemGroup>
 
 </Project>
