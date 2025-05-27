@@ -87,6 +87,27 @@ namespace PoinSiswa_Form.Automata
                 .Where(t => t.PrevState == state)
                 .Select(t => t.Trigger);
         }
+
+        public void ActivateTo(StatusPelanggaran targetState)
+        {
+            CurrentState = StatusPelanggaran.DILAPORKAN;
+            if (targetState == CurrentState) return;
+
+            var triggersToTarget = new Dictionary<StatusPelanggaran, Trigger[]>
+            {
+                { StatusPelanggaran.DISETUJUI, new[] { Trigger.SETUJUI } },
+                { StatusPelanggaran.DIBERI_SANKSI, new[] { Trigger.SETUJUI, Trigger.BERI_SANKSI } },
+                { StatusPelanggaran.SELESAI, new[] { Trigger.SETUJUI, Trigger.BERI_SANKSI, Trigger.SELESAIKAN } },
+            };
+
+            if (triggersToTarget.TryGetValue(targetState, out var triggers))
+            {
+                foreach (var trigger in triggers)
+                {
+                    Activate(trigger);
+                }
+            }
+        }
     }
 
 }

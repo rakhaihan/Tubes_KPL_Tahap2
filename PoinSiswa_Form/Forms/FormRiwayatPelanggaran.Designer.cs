@@ -1,6 +1,6 @@
 ﻿namespace PoinSiswa_Form.Forms
 {
-    partial class FormMain
+    partial class FormRiwayatPelanggaran
     {
         /// <summary>
         /// Required designer variable.
@@ -28,22 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            
-            // 
-            // FormMain
-            // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1041, 575);
-            Controls.Add(label1);
-            Name = "FormMain";
-            Text = "FormMain";
-            ResumeLayout(false);
-            PerformLayout();
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "FormRiwayatPelanggaran";
         }
 
         #endregion
-
-        private Label label1;
     }
 }

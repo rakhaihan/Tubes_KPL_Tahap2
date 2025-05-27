@@ -4,5 +4,14 @@
     <Compile Update="Forms\FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\FormRiwayatPelanggaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormTambahPelanggaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUbahStatusPelanggaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

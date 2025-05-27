@@ -12,10 +12,13 @@ namespace PoinSiswa_Form.Model
     {
         public int Id { get; set; }
         public int SiswaId { get; set; }
+        public string NamaSiswa { get; set; }
+        public string KelasSiswa { get; set; }
         public string Jenis { get; set; }
         public int Poin { get; set; }
         public DateTime Tanggal { get; set; }
         public StatusPelanggaran Status { get; set; }
+        public string Sanksi { get; set; } = "";
     }
 }
 
