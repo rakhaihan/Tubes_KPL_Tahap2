@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace PoinSiswa_Form.Model
 {
-    public enum StatusPelanggaran { DILAPORKAN, DISETUJUI, DIBERI_SANKSI, SELESAI }
+    public enum StatusPelanggaran { 
+        DILAPORKAN, 
+        DISETUJUI, 
+        DIBERI_SANKSI, 
+        SELESAI 
+    }
 
     public class Pelanggaran
     {

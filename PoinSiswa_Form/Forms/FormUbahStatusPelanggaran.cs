@@ -1,4 +1,7 @@
-﻿using System;
+﻿using PoinSiswa_Form.Automata;
+using PoinSiswa_Form.Model;
+using PoinSiswa_Form.StatePattern;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,52 +10,61 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using PoinSiswa_Form.Automata;
-using PoinSiswa_Form.Model;
 
 namespace PoinSiswa_Form.Forms
 {
     public partial class FormUbahStatusPelanggaran : Form
     {
         private Label lblStatus;
-        private ComboBox cmbTrigger;
-        private Button btnUbah;
-        private PelanggaranStateMachine fsm;
-        private Pelanggaran pelanggaran;
+        private Button btnNext;
+        private PelanggaranContext context;
 
         public FormUbahStatusPelanggaran(Pelanggaran pelanggaran)
         {
-            this.pelanggaran = pelanggaran;
-            this.fsm = new PelanggaranStateMachine();
-            this.fsm.ActivateTo(pelanggaran.Status); // optional: buat method ActivateTo jika ingin mulai dari status yang benar
-
             this.Text = "Ubah Status Pelanggaran";
-            this.Size = new Size(500, 300);
+            this.Size = new Size(400, 200);
             this.BackColor = Color.WhiteSmoke;
 
-            lblStatus = new Label { Left = 20, Top = 20, Width = 400, Font = new Font("Segoe UI", 12), Text = $"Status Saat Ini: {fsm.CurrentState}" };
-            cmbTrigger = new ComboBox { Left = 20, Top = 60, Width = 300 };
-            cmbTrigger.Items.AddRange(Enum.GetNames(typeof(Trigger)));
+            context = new PelanggaranContext(pelanggaran);
 
-            btnUbah = new Button { Text = "Ubah Status", Left = 20, Top = 100, Width = 150, BackColor = Color.DarkOrange, ForeColor = Color.White };
-            btnUbah.Click += (s, e) =>
+            lblStatus = new Label
             {
-                try
+                Text = $"Status: {context.GetCurrentStatus()}",
+                Font = new Font("Segoe UI", 12),
+                AutoSize = true,
+                Top = 20,
+                Left = 30
+            };
+
+            btnNext = new Button
+            {
+                Text = "Lanjutkan Status",
+                Width = 150,
+                Top = 60,
+                Left = 30,
+                BackColor = Color.OrangeRed,
+                ForeColor = Color.White
+            };
+            btnNext.Click += (s, e) =>
+            {
+                context.NextState();
+                lblStatus.Text = $"Status: {context.GetCurrentStatus()}";
+
+                if (context.Pelanggaran.Status == StatusPelanggaran.DISETUJUI)
                 {
-                    var trigger = (Trigger)Enum.Parse(typeof(Trigger), cmbTrigger.SelectedItem.ToString());
-                    fsm.Activate(trigger);
-                    pelanggaran.Status = fsm.CurrentState;
-                    lblStatus.Text = $"Status Saat Ini: {pelanggaran.Status}";
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    var siswa = Program.DaftarSiswa.FirstOrDefault(s => s.Nama == context.Pelanggaran.NamaSiswa);
+                    if (siswa != null)
+                    {
+                        siswa.TotalPoin += context.Pelanggaran.Poin;
+                        if (siswa.TotalPoin >= 30) context.Pelanggaran.Sanksi = "Skorsing";
+                        else if (siswa.TotalPoin >= 20) context.Pelanggaran.Sanksi = "Panggilan Orang Tua";
+                        else if (siswa.TotalPoin >= 10) context.Pelanggaran.Sanksi = "Peringatan Lisan";
+                    }
                 }
             };
 
             Controls.Add(lblStatus);
-            Controls.Add(cmbTrigger);
-            Controls.Add(btnUbah);
+            Controls.Add(btnNext);
         }
     }
 }
