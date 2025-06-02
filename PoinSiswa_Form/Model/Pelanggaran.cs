@@ -17,13 +17,14 @@ namespace PoinSiswa_Form.Model
     {
         public int Id { get; set; }
         public int SiswaId { get; set; }
-        public string NamaSiswa { get; set; }
-        public string KelasSiswa { get; set; }
-        public string Jenis { get; set; }
+        public string NamaSiswa { get; set; } = string.Empty;
+        public string KelasSiswa { get; set; } = string.Empty;
+        public string Jenis { get; set; } = string.Empty;
         public int Poin { get; set; }
         public DateTime Tanggal { get; set; }
-        public StatusPelanggaran Status { get; set; }
-        public string Sanksi { get; set; } = "";
+        public StatusPelanggaran Status { get; set; } = StatusPelanggaran.DILAPORKAN;
+        public string Sanksi { get; set; } = string.Empty;
     }
+
 }
 

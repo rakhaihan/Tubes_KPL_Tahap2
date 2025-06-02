@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using PoinSiswa_Form.Table_driven;
 using PoinSiswa_Form.Model;
 
+
 namespace PoinSiswa_Form.Forms
 {
     public partial class FormTambahPelanggaran : Form
@@ -24,7 +25,7 @@ namespace PoinSiswa_Form.Forms
         {
             this.Text = "Tambah Pelanggaran";
             this.WindowState = FormWindowState.Maximized;
-            this.BackColor = Color.WhiteSmoke;
+            this.BackColor = System.Drawing.Color.WhiteSmoke;
 
             Label lblNama = new Label { Text = "Nama Siswa:", Left = 50, Top = 30, Width = 150 };
             txtNama = new TextBox { Left = 200, Top = 25, Width = 300 };
@@ -35,47 +36,56 @@ namespace PoinSiswa_Form.Forms
             Label lblJenis = new Label { Text = "Jenis Pelanggaran:", Left = 50, Top = 110, Width = 150 };
             cmbJenis = new ComboBox { Left = 200, Top = 105, Width = 300 };
             cmbJenis.Items.AddRange(TabelPelanggaran.Daftar.Keys.ToArray());
+
             cmbJenis.SelectedIndexChanged += (s, e) =>
             {
-                if (cmbJenis.SelectedItem != null)
+                if (cmbJenis.SelectedItem is string selectedJenis &&
+                    TabelPelanggaran.Daftar.TryGetValue(selectedJenis, out var jenis))
                 {
-                    var poin = TabelPelanggaran.GetPoin(cmbJenis.SelectedItem.ToString());
-                    txtPoin.Text = poin.ToString();
+                    txtPoin.Text = jenis.Poin.ToString();
                 }
             };
 
             Label lblPoin = new Label { Text = "Poin:", Left = 50, Top = 150, Width = 150 };
             txtPoin = new TextBox { Left = 200, Top = 145, Width = 100, ReadOnly = true };
 
-            btnSimpan = new Button { Text = "Simpan", Left = 200, Top = 190, Width = 100, BackColor = Color.MediumSeaGreen, ForeColor = Color.White };
+            btnSimpan = new Button { Text = "Simpan", Left = 200, Top = 190, Width = 100, BackColor = System.Drawing.Color.MediumSeaGreen, ForeColor = System.Drawing.Color.White };
             btnSimpan.Click += (s, e) =>
             {
                 string nama = txtNama.Text.Trim();
                 string kelas = txtKelas.Text.Trim();
-                string jenis = cmbJenis.SelectedItem?.ToString();
+                string jenisNama = cmbJenis.SelectedItem?.ToString();
 
-                if (string.IsNullOrWhiteSpace(nama) || string.IsNullOrWhiteSpace(kelas) || string.IsNullOrWhiteSpace(jenis))
+                if (string.IsNullOrWhiteSpace(nama) || string.IsNullOrWhiteSpace(kelas) || string.IsNullOrWhiteSpace(jenisNama))
                 {
                     MessageBox.Show("Semua data harus diisi.", "Validasi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
 
-                int poin = TabelPelanggaran.GetPoin(jenis);
+                if (!TabelPelanggaran.Daftar.TryGetValue(jenisNama, out var jenis))
+                {
+                    MessageBox.Show("Jenis pelanggaran tidak ditemukan.", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
 
                 var siswa = Program.DaftarSiswa.FirstOrDefault(s => s.Nama.Equals(nama, StringComparison.OrdinalIgnoreCase));
                 if (siswa == null)
                 {
-                    siswa = new Siswa { Nama = nama, Kelas = kelas };
+                    siswa = new Siswa { Id = Guid.NewGuid().GetHashCode(), Nama = nama, Kelas = kelas };
                     Program.DaftarSiswa.Add(siswa);
                 }
 
                 var pelanggaran = new Pelanggaran
                 {
+                    Id = Guid.NewGuid().GetHashCode(),
+                    SiswaId = siswa.Id,
                     NamaSiswa = nama,
-                    Jenis = jenis,
-                    Poin = poin,
+                    KelasSiswa = kelas,
+                    Jenis = jenis.Nama,
+                    Poin = jenis.Poin,
                     Tanggal = DateTime.Now,
-                    Status = StatusPelanggaran.DILAPORKAN
+                    Status = StatusPelanggaran.DILAPORKAN,
+                    Sanksi = ""
                 };
 
                 siswa.RiwayatPelanggaran.Add(pelanggaran);
@@ -84,9 +94,6 @@ namespace PoinSiswa_Form.Forms
                 MessageBox.Show("Pelanggaran berhasil ditambahkan.", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 this.Close();
             };
-
-
-
 
             Controls.Add(lblNama);
             Controls.Add(txtNama);

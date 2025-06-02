@@ -6,5 +6,10 @@ using System.Threading.Tasks;
 
 namespace PoinSiswa_Form.Table_driven
 {
-    public enum LevelPelanggaran { RINGAN, SEDANG, BERAT }
+    public enum LevelPelanggaran 
+    { 
+        RINGAN, 
+        SEDANG, 
+        BERAT 
+    }
 }
