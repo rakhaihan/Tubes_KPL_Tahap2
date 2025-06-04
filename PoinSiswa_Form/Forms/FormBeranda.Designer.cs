@@ -53,6 +53,7 @@
             // 
             // btnLaporan
             // 
+            btnLaporan.Font = new Font("Futura Md BT", 10.2F);
             btnLaporan.Location = new Point(11, 338);
             btnLaporan.Name = "btnLaporan";
             btnLaporan.Size = new Size(250, 100);
@@ -63,6 +64,7 @@
             // 
             // btnPeraturan
             // 
+            btnPeraturan.Font = new Font("Futura Md BT", 10.2F);
             btnPeraturan.Location = new Point(11, 232);
             btnPeraturan.Name = "btnPeraturan";
             btnPeraturan.Size = new Size(250, 100);
@@ -73,6 +75,7 @@
             // 
             // btnSiswa
             // 
+            btnSiswa.Font = new Font("Futura Md BT", 10.2F);
             btnSiswa.Location = new Point(11, 126);
             btnSiswa.Name = "btnSiswa";
             btnSiswa.Size = new Size(250, 100);
@@ -84,6 +87,7 @@
             // btnBeranda
             // 
             btnBeranda.BackColor = SystemColors.GradientActiveCaption;
+            btnBeranda.Font = new Font("Futura Md BT", 10.2F);
             btnBeranda.Location = new Point(11, 20);
             btnBeranda.Name = "btnBeranda";
             btnBeranda.Size = new Size(250, 100);
