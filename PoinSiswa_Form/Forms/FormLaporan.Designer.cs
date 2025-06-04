@@ -42,9 +42,9 @@
             txtNIS = new TextBox();
             label5 = new Label();
             txtPelanggaran = new TextBox();
-            label3 = new Label();
-            txtDeskripsi = new TextBox();
             btnSubmit = new Button();
+            label3 = new Label();
+            txtKelas = new TextBox();
             panel2.SuspendLayout();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -139,7 +139,7 @@
             // 
             lblNamaSiswa.AutoSize = true;
             lblNamaSiswa.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblNamaSiswa.Location = new Point(336, 238);
+            lblNamaSiswa.Location = new Point(336, 313);
             lblNamaSiswa.Name = "lblNamaSiswa";
             lblNamaSiswa.Size = new Size(121, 28);
             lblNamaSiswa.TabIndex = 5;
@@ -148,34 +148,38 @@
             // 
             // txtNamaSiswa
             // 
-            txtNamaSiswa.Location = new Point(336, 269);
+            txtNamaSiswa.BorderStyle = BorderStyle.FixedSingle;
+            txtNamaSiswa.Location = new Point(336, 344);
             txtNamaSiswa.Name = "txtNamaSiswa";
             txtNamaSiswa.Size = new Size(339, 27);
             txtNamaSiswa.TabIndex = 6;
+            txtNamaSiswa.TextChanged += txtNamaSiswa_TextChanged;
             // 
             // label4
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label4.Location = new Point(336, 344);
+            label4.Location = new Point(336, 419);
             label4.Name = "label4";
-            label4.Size = new Size(54, 31);
+            label4.Size = new Size(72, 31);
             label4.TabIndex = 7;
-            label4.Text = "NIS:";
+            label4.Text = "Kelas:";
             label4.Click += label4_Click;
             // 
             // txtNIS
             // 
-            txtNIS.Location = new Point(336, 378);
+            txtNIS.BorderStyle = BorderStyle.FixedSingle;
+            txtNIS.Location = new Point(336, 253);
             txtNIS.Name = "txtNIS";
             txtNIS.Size = new Size(339, 27);
             txtNIS.TabIndex = 8;
+            txtNIS.TextChanged += txtNIS_TextChanged;
             // 
             // label5
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.Location = new Point(336, 468);
+            label5.Location = new Point(336, 519);
             label5.Name = "label5";
             label5.Size = new Size(147, 31);
             label5.TabIndex = 9;
@@ -183,33 +187,18 @@
             // 
             // txtPelanggaran
             // 
-            txtPelanggaran.Location = new Point(336, 512);
+            txtPelanggaran.BorderStyle = BorderStyle.FixedSingle;
+            txtPelanggaran.Location = new Point(336, 563);
             txtPelanggaran.Name = "txtPelanggaran";
             txtPelanggaran.Size = new Size(339, 27);
             txtPelanggaran.TabIndex = 10;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(336, 595);
-            label3.Name = "label3";
-            label3.Size = new Size(339, 31);
-            label3.TabIndex = 11;
-            label3.Text = "Deskripsi Lengkap Pelanggaran:";
-            // 
-            // txtDeskripsi
-            // 
-            txtDeskripsi.Location = new Point(336, 645);
-            txtDeskripsi.Name = "txtDeskripsi";
-            txtDeskripsi.Size = new Size(339, 27);
-            txtDeskripsi.TabIndex = 12;
+            txtPelanggaran.TextChanged += txtPelanggaran_TextChanged;
             // 
             // btnSubmit
             // 
             btnSubmit.BackColor = SystemColors.ActiveCaption;
             btnSubmit.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnSubmit.Location = new Point(336, 749);
+            btnSubmit.Location = new Point(336, 679);
             btnSubmit.Name = "btnSubmit";
             btnSubmit.Size = new Size(254, 29);
             btnSubmit.TabIndex = 13;
@@ -217,14 +206,35 @@
             btnSubmit.UseVisualStyleBackColor = false;
             btnSubmit.Click += button1_Click;
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.Location = new Point(336, 222);
+            label3.Name = "label3";
+            label3.Size = new Size(47, 28);
+            label3.TabIndex = 14;
+            label3.Text = "NIS:";
+            label3.Click += label3_Click_1;
+            // 
+            // txtKelas
+            // 
+            txtKelas.BorderStyle = BorderStyle.FixedSingle;
+            txtKelas.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtKelas.Location = new Point(336, 453);
+            txtKelas.Name = "txtKelas";
+            txtKelas.Size = new Size(339, 27);
+            txtKelas.TabIndex = 15;
+            txtKelas.TextChanged += txtKelas_TextChanged;
+            // 
             // FormLaporan
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1262, 803);
-            Controls.Add(btnSubmit);
-            Controls.Add(txtDeskripsi);
+            Controls.Add(txtKelas);
             Controls.Add(label3);
+            Controls.Add(btnSubmit);
             Controls.Add(txtPelanggaran);
             Controls.Add(label5);
             Controls.Add(txtNIS);
@@ -261,8 +271,8 @@
         private TextBox txtNIS;
         private Label label5;
         private TextBox txtPelanggaran;
-        private Label label3;
-        private TextBox txtDeskripsi;
         private Button btnSubmit;
+        private Label label3;
+        private TextBox txtKelas;
     }
 }

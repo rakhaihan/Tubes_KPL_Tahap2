@@ -24,17 +24,23 @@ namespace PoinSiswa_Form.Forms
 
         private void btnSiswa_Click(object sender, EventArgs e)
         {
-
+            var form = new FormSiswa();
+            form.Show();
+            this.Hide();
         }
 
         private void btnPeraturan_Click(object sender, EventArgs e)
         {
-
+            var form = new FormPeraturan();
+            form.Show();
+            this.Hide();
         }
 
         private void btnLaporan_Click(object sender, EventArgs e)
         {
-
+            var form = new FormLaporan();
+            form.Show();
+            this.Hide();
         }
     }
 }
