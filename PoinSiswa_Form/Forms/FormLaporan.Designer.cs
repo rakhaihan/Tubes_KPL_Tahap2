@@ -31,7 +31,10 @@
             panel1 = new Panel();
             label1 = new Label();
             panel2 = new Panel();
-            button1 = new Button();
+            this.btnBeranda = new Button();
+            this.btnSiswa = new Button();
+            this.btnPeraturan = new Button();
+            btnLaporan = new Button();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             SuspendLayout();
@@ -59,20 +62,58 @@
             // panel2
             // 
             panel2.BackColor = SystemColors.MenuHighlight;
-            panel2.Controls.Add(button1);
+            panel2.Controls.Add(btnLaporan);
+            panel2.Controls.Add(this.btnPeraturan);
+            panel2.Controls.Add(this.btnSiswa);
+            panel2.Controls.Add(this.btnBeranda);
             panel2.Location = new Point(1, 112);
             panel2.Name = "panel2";
             panel2.Size = new Size(286, 1080);
             panel2.TabIndex = 1;
             // 
-            // button1
+            // btnBeranda
             // 
-            button1.Location = new Point(11, 20);
-            button1.Name = "button1";
-            button1.Size = new Size(250, 100);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            this.btnBeranda.Font = new Font("Futura Md BT", 10.2F);
+            this.btnBeranda.Location = new Point(11, 20);
+            this.btnBeranda.Name = "btnBeranda";
+            this.btnBeranda.Size = new Size(250, 100);
+            this.btnBeranda.TabIndex = 0;
+            this.btnBeranda.Text = "BERANDA";
+            this.btnBeranda.UseVisualStyleBackColor = true;
+            this.btnBeranda.Click += this.button1_Click;
+            // 
+            // btnSiswa
+            // 
+            this.btnSiswa.Font = new Font("Futura Md BT", 10.2F);
+            this.btnSiswa.Location = new Point(11, 126);
+            this.btnSiswa.Name = "btnSiswa";
+            this.btnSiswa.Size = new Size(250, 100);
+            this.btnSiswa.TabIndex = 1;
+            this.btnSiswa.Text = "SISWA";
+            this.btnSiswa.UseVisualStyleBackColor = true;
+            this.btnSiswa.Click += this.button2_Click;
+            // 
+            // btnPeraturan
+            // 
+            this.btnPeraturan.Font = new Font("Futura Md BT", 10.2F);
+            this.btnPeraturan.Location = new Point(11, 232);
+            this.btnPeraturan.Name = "btnPeraturan";
+            this.btnPeraturan.Size = new Size(250, 100);
+            this.btnPeraturan.TabIndex = 2;
+            this.btnPeraturan.Text = "PERATURAN";
+            this.btnPeraturan.UseVisualStyleBackColor = true;
+            this.btnPeraturan.Click += this.button3_Click;
+            // 
+            // btnLaporan
+            // 
+            btnLaporan.Font = new Font("Futura Md BT", 10.2F);
+            btnLaporan.Location = new Point(11, 338);
+            btnLaporan.Name = "btnLaporan";
+            btnLaporan.Size = new Size(250, 100);
+            btnLaporan.TabIndex = 3;
+            btnLaporan.Text = "LAPORAN";
+            btnLaporan.UseVisualStyleBackColor = true;
+            btnLaporan.Click += button4_Click;
             // 
             // FormLaporan
             // 
@@ -97,5 +138,8 @@
         private Label label1;
         private Panel panel2;
         private Button button1;
+        private Button button2;
+        private Button button3;
+        private Button btnLaporan;
     }
 }
