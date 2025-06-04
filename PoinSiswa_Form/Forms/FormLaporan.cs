@@ -16,5 +16,25 @@ namespace PoinSiswa_Form.Forms
         {
             InitializeComponent();
         }
+
+        private void btnBeranda_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSiswa_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPeraturan_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLaporan_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
