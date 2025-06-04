@@ -18,3 +18,8 @@ D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 
 D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormTambahPelanggaran.resources
 D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormUbahStatusPelanggaran.resources
 D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormRiwayatPelanggaran.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormBeranda.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Properties.Resources.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormLaporan.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormPeraturan.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormSiswa.resources

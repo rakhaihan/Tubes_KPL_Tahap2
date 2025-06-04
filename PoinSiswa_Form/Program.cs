@@ -15,7 +15,7 @@ namespace PoinSiswa_Form
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Forms.FormMain());
+            Application.Run(new Forms.FormBeranda());
         }
     }
 }
