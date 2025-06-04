@@ -36,5 +36,21 @@ namespace PoinSiswa_Form.Forms
         {
 
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        //btnSubmit
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

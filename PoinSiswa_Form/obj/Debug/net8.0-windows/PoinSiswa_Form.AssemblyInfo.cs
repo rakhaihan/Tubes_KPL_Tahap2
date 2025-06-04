@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoinSiswa_Form")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7faccbdd33a753dc76f9073972eb5a05fbf999d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21d0584657f20a10b3b371438265a68037e6f0b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoinSiswa_Form")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoinSiswa_Form")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
