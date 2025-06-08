@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a2 tubes\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a2 tubes\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Pelanggaran.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A2 Tubes\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Model\\Pelanggaran.cs",
               "RelativeDocumentMoniker": "PoinSiswa_Form\\Model\\Pelanggaran.cs",
@@ -58,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FormLaporan.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A2 Tubes\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormLaporan.cs",
               "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormLaporan.cs",
@@ -80,18 +76,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T02:49:45.412Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A2 Tubes\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormMain.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormMain.cs",
-              "ToolTip": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A2 Tubes\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormMain.cs",
-              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormMain.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:49:09.771Z"
             }
           ]
         }
