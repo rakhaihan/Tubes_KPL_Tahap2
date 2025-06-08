@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Library
+namespace Library.TableDrivenLibrary
 {
-    public class Class1
+    public enum LevelPelanggaran
     {
+        RINGAN,
+        SEDANG,
+        BERAT
     }
 }

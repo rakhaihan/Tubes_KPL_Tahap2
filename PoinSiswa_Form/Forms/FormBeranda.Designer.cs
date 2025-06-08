@@ -35,8 +35,11 @@
             btnBeranda = new Button();
             panel2 = new Panel();
             label1 = new Label();
+            dataGridView1 = new DataGridView();
+            label2 = new Label();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -46,17 +49,19 @@
             panel1.Controls.Add(btnPeraturan);
             panel1.Controls.Add(btnSiswa);
             panel1.Controls.Add(btnBeranda);
-            panel1.Location = new Point(1, 112);
+            panel1.Location = new Point(1, 84);
+            panel1.Margin = new Padding(3, 2, 3, 2);
             panel1.Name = "panel1";
-            panel1.Size = new Size(286, 980);
+            panel1.Size = new Size(250, 735);
             panel1.TabIndex = 0;
             // 
             // btnLaporan
             // 
-            btnLaporan.Font = new Font("Futura Md BT", 10.2F);
-            btnLaporan.Location = new Point(11, 338);
+            btnLaporan.Font = new Font("Microsoft Sans Serif", 10.2F);
+            btnLaporan.Location = new Point(10, 254);
+            btnLaporan.Margin = new Padding(3, 2, 3, 2);
             btnLaporan.Name = "btnLaporan";
-            btnLaporan.Size = new Size(250, 100);
+            btnLaporan.Size = new Size(219, 75);
             btnLaporan.TabIndex = 4;
             btnLaporan.Text = "LAPORAN";
             btnLaporan.UseVisualStyleBackColor = true;
@@ -64,10 +69,11 @@
             // 
             // btnPeraturan
             // 
-            btnPeraturan.Font = new Font("Futura Md BT", 10.2F);
-            btnPeraturan.Location = new Point(11, 232);
+            btnPeraturan.Font = new Font("Microsoft Sans Serif", 10.2F);
+            btnPeraturan.Location = new Point(10, 174);
+            btnPeraturan.Margin = new Padding(3, 2, 3, 2);
             btnPeraturan.Name = "btnPeraturan";
-            btnPeraturan.Size = new Size(250, 100);
+            btnPeraturan.Size = new Size(219, 75);
             btnPeraturan.TabIndex = 3;
             btnPeraturan.Text = "PERATURAN";
             btnPeraturan.UseVisualStyleBackColor = true;
@@ -75,10 +81,11 @@
             // 
             // btnSiswa
             // 
-            btnSiswa.Font = new Font("Futura Md BT", 10.2F);
-            btnSiswa.Location = new Point(11, 126);
+            btnSiswa.Font = new Font("Microsoft Sans Serif", 10.2F);
+            btnSiswa.Location = new Point(10, 94);
+            btnSiswa.Margin = new Padding(3, 2, 3, 2);
             btnSiswa.Name = "btnSiswa";
-            btnSiswa.Size = new Size(250, 100);
+            btnSiswa.Size = new Size(219, 75);
             btnSiswa.TabIndex = 2;
             btnSiswa.Text = "SISWA";
             btnSiswa.UseVisualStyleBackColor = true;
@@ -87,10 +94,11 @@
             // btnBeranda
             // 
             btnBeranda.BackColor = SystemColors.GradientActiveCaption;
-            btnBeranda.Font = new Font("Futura Md BT", 10.2F);
-            btnBeranda.Location = new Point(11, 20);
+            btnBeranda.Font = new Font("Microsoft Sans Serif", 10.2F);
+            btnBeranda.Location = new Point(10, 15);
+            btnBeranda.Margin = new Padding(3, 2, 3, 2);
             btnBeranda.Name = "btnBeranda";
-            btnBeranda.Size = new Size(250, 100);
+            btnBeranda.Size = new Size(219, 75);
             btnBeranda.TabIndex = 0;
             btnBeranda.Text = "BERANDA";
             btnBeranda.UseVisualStyleBackColor = false;
@@ -100,29 +108,51 @@
             // 
             panel2.BackColor = SystemColors.MenuHighlight;
             panel2.Controls.Add(label1);
-            panel2.Location = new Point(1, 12);
+            panel2.Location = new Point(1, 9);
+            panel2.Margin = new Padding(3, 2, 3, 2);
             panel2.Name = "panel2";
-            panel2.Size = new Size(1920, 100);
+            panel2.Size = new Size(1680, 75);
             panel2.TabIndex = 1;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Futura Md BT", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Font = new Font("Microsoft Sans Serif", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.HighlightText;
-            label1.Location = new Point(24, 33);
+            label1.Location = new Point(21, 25);
             label1.Name = "label1";
-            label1.Size = new Size(512, 34);
+            label1.Size = new Size(403, 26);
             label1.TabIndex = 0;
             label1.Text = "Sistem Poin Pelanggaran SMK Merdeka";
             // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(292, 178);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(667, 281);
+            dataGridView1.TabIndex = 2;
+            // 
+            // label2
+            // 
+            label2.Font = new Font("Segoe UI", 30F);
+            label2.Location = new Point(292, 99);
+            label2.Name = "label2";
+            label2.Size = new Size(183, 68);
+            label2.TabIndex = 0;
+            label2.Text = "Beranda";
+            label2.Click += label2_Click_1;
+            // 
             // FormBeranda
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1143, 639);
+            ClientSize = new Size(1000, 479);
+            Controls.Add(label2);
+            Controls.Add(dataGridView1);
             Controls.Add(panel2);
             Controls.Add(panel1);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "FormBeranda";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "FormBeranda";
@@ -130,6 +160,7 @@
             panel1.ResumeLayout(false);
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
 
@@ -142,5 +173,7 @@
         private Button btnPeraturan;
         private Button btnSiswa;
         private Button btnBeranda;
+        private DataGridView dataGridView1;
+        private Label label2;
     }
 }

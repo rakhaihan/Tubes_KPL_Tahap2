@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Library
+namespace Library.AutomataLibrary
 {
-    public class Class1
+    public enum Trigger
     {
+        SETUJUI,
+        BERI_SANKSI,
+        SELESAIKAN
     }
 }

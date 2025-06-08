@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Library
+namespace Library.ModelLibrary
 {
-    public class Class1
+    public enum RolePengguna
     {
+        AdminBK,
+        Guru,
+        Siswa,
+        OrangTua
     }
 }
