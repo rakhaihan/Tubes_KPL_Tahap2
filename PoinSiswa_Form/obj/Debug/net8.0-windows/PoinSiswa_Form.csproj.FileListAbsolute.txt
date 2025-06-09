@@ -1,0 +1,69 @@
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.exe
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.deps.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.runtimeconfig.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormMain.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.GenerateResource.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfoInputs.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfo.cs
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.CoreCompileInputs.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.sourcelink.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\refint\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.genruntimeconfig.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\ref\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormTambahPelanggaran.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormUbahStatusPelanggaran.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormRiwayatPelanggaran.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormBeranda.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Properties.Resources.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormLaporan.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormPeraturan.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormSiswa.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.exe
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.deps.json
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.runtimeconfig.json
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormBeranda.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormCariDataPelanggaran.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormLaporan.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormPeraturan.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormSiswa.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Properties.Resources.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.GenerateResource.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfoInputs.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfo.cs
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.CoreCompileInputs.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.sourcelink.json
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\refint\PoinSiswa_Form.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.genruntimeconfig.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\tubes kpl tahap 2 form\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\ref\PoinSiswa_Form.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.exe
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.deps.json
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.runtimeconfig.json
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormBeranda.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormCariDataPelanggaran.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormLaporan.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormPeraturan.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormSiswa.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Properties.Resources.resources
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.GenerateResource.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfoInputs.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfo.cs
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.CoreCompileInputs.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.sourcelink.json
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\refint\PoinSiswa_Form.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.genruntimeconfig.cache
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes Tahap 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\ref\PoinSiswa_Form.dll

@@ -1,8 +1,9 @@
-﻿using API.Models;
+﻿using PoinSiswa_API.Models;
 
 namespace PoinSiswa_API.States
 {
-    public interface PoinPelanggaranState
+    // Interface untuk mendefinisikan perilaku setiap state dari pelanggaran
+    public interface IPoinPelanggaranState
     {
         void Handle(PoinPelanggaran poin);
     }

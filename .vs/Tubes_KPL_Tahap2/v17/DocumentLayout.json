@@ -3,40 +3,76 @@
   "WorkspaceRootPath": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\models\\poinpelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\models\\poinpelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formcaridatapelanggaran.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formcaridatapelanggaran.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formcaridatapelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formcaridatapelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\services\\siswaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\services\\siswaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\poinsiswa_form\\forms\\formcaridatapelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formcaridatapelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\poinsiswa_form\\forms\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formlaporan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formlaporan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\services\\poinpelanggaranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\services\\poinpelanggaranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\states\\disetujuistate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\states\\disetujuistate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\models\\poinpelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\models\\poinpelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\states\\poinpelanggarancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\states\\poinpelanggarancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\controllers\\poinpelanggarancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\controllers\\poinpelanggarancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\states\\ditolakstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\states\\ditolakstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\controllers\\siswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\controllers\\siswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\states\\menunggustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\states\\menunggustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\states\\poinpelanggaranstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\states\\poinpelanggaranstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\poinsiswa_form\\forms\\formberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formberanda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formberanda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formtambahpelanggaran.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formtambahpelanggaran.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_form\\forms\\formtambahpelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84027C-0F34-4F8B-B42B-9D34670D596B}|PoinSiswa_Form\\PoinSiswa_Form.csproj|solutionrelative:poinsiswa_form\\forms\\formtambahpelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes tahap 2\\tubes_kpl_tahap2\\poinsiswa_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44756E21-E43D-477E-9A2E-D39B8F16810E}|PoinSiswa_API\\PoinSiswa_API.csproj|solutionrelative:poinsiswa_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,120 +90,220 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PoinPelanggaran.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Models\\PoinPelanggaran.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\Models\\PoinPelanggaran.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Models\\PoinPelanggaran.cs",
-              "RelativeToolTip": "PoinSiswa_API\\Models\\PoinPelanggaran.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:58:01.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SiswaService.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Services\\SiswaService.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\Services\\SiswaService.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Services\\SiswaService.cs",
-              "RelativeToolTip": "PoinSiswa_API\\Services\\SiswaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:57:59.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Program.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\Program.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Program.cs",
-              "RelativeToolTip": "PoinSiswa_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Title": "FormCariDataPelanggaran.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwFMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:50:19.516Z",
+              "WhenOpened": "2025-06-08T23:29:36.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PoinPelanggaranService.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
-              "RelativeToolTip": "PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwC4AAAAlAAAAAAAAAA==",
+              "Title": "FormCariDataPelanggaran.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs [Design]",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:48:16.388Z",
+              "WhenOpened": "2025-06-08T23:28:23.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLaporan.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormLaporan.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormLaporan.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormLaporan.cs [Design]",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormLaporan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T23:28:17.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCariDataPelanggaran.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.Designer.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.Designer.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.Designer.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormCariDataPelanggaran.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:28:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLaporan.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormLaporan.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormLaporan.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormLaporan.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormLaporan.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv5MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T23:29:17.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PoinPelanggaranContext.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\PoinPelanggaranContext.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\States\\PoinPelanggaranContext.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\PoinPelanggaranContext.cs",
-              "RelativeToolTip": "PoinSiswa_API\\States\\PoinPelanggaranContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Title": "FormLaporan.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormLaporan.Designer.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormLaporan.Designer.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormLaporan.Designer.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormLaporan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:47:13.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T23:28:12.85Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DitolakState.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\DitolakState.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\States\\DitolakState.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\DitolakState.cs",
-              "RelativeToolTip": "PoinSiswa_API\\States\\DitolakState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "PoinPelanggaranService.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
+              "RelativeToolTip": "PoinSiswa_API\\Services\\PoinPelanggaranService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:46:17.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DisetujuiState.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\DisetujuiState.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\States\\DisetujuiState.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\DisetujuiState.cs",
-              "RelativeToolTip": "PoinSiswa_API\\States\\DisetujuiState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:45:31.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T22:58:36.29Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MenungguState.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\MenungguState.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\States\\MenungguState.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\MenungguState.cs",
-              "RelativeToolTip": "PoinSiswa_API\\States\\MenungguState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "PoinPelanggaran.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Models\\PoinPelanggaran.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_API\\Models\\PoinPelanggaran.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Models\\PoinPelanggaran.cs",
+              "RelativeToolTip": "PoinSiswa_API\\Models\\PoinPelanggaran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:44:38.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T22:51:33.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SiswaController.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Controllers\\SiswaController.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_API\\Controllers\\SiswaController.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Controllers\\SiswaController.cs",
+              "RelativeToolTip": "PoinSiswa_API\\Controllers\\SiswaController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:44:45.745Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PoinPelanggaranState.cs",
-              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\PoinPelanggaranState.cs",
-              "RelativeDocumentMoniker": "PoinSiswa_API\\States\\PoinPelanggaranState.cs",
-              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\States\\PoinPelanggaranState.cs",
-              "RelativeToolTip": "PoinSiswa_API\\States\\PoinPelanggaranState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "PoinPelanggaranController.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Controllers\\PoinPelanggaranController.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_API\\Controllers\\PoinPelanggaranController.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Controllers\\PoinPelanggaranController.cs",
+              "RelativeToolTip": "PoinSiswa_API\\Controllers\\PoinPelanggaranController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:42:48.269Z",
+              "WhenOpened": "2025-06-08T22:30:50.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBeranda.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormBeranda.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormBeranda.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormBeranda.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormBeranda.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:22:56.703Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormMain.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormMain.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:05:10.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBeranda.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormBeranda.Designer.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormBeranda.Designer.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormBeranda.Designer.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormBeranda.Designer.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwIcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:27:20.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormMain.Designer.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormMain.Designer.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:27:12.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBeranda.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormBeranda.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormBeranda.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormBeranda.cs [Design]",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormBeranda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:52:15.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormTambahPelanggaran.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormTambahPelanggaran.Designer.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormTambahPelanggaran.Designer.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormTambahPelanggaran.Designer.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormTambahPelanggaran.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:31:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormTambahPelanggaran.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormTambahPelanggaran.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_Form\\Forms\\FormTambahPelanggaran.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_Form\\Forms\\FormTambahPelanggaran.cs",
+              "RelativeToolTip": "PoinSiswa_Form\\Forms\\FormTambahPelanggaran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:31:39.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Program.cs",
+              "RelativeDocumentMoniker": "PoinSiswa_API\\Program.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes Tahap 2\\Tubes_KPL_Tahap2\\PoinSiswa_API\\Program.cs",
+              "RelativeToolTip": "PoinSiswa_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:50:19.516Z"
             }
           ]
         }

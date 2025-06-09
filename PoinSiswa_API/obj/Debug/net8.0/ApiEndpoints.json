@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "ProjectNamespace.Controllers.PoinPelanggaranController",
+    "ContainingType": "PoinSiswa_API.Controllers.PoinPelanggaranController",
     "Method": "GetAll",
     "RelativePath": "api/PoinPelanggaran",
     "HttpMethod": "GET",
@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[API.Models.PoinPelanggaran, PoinSiswa_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[PoinSiswa_API.Models.PoinPelanggaran, PoinSiswa_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectNamespace.Controllers.PoinPelanggaranController",
+    "ContainingType": "PoinSiswa_API.Controllers.PoinPelanggaranController",
     "Method": "Create",
     "RelativePath": "api/PoinPelanggaran",
     "HttpMethod": "POST",
@@ -29,14 +29,14 @@
     "Parameters": [
       {
         "Name": "poin",
-        "Type": "API.Models.PoinPelanggaran",
+        "Type": "PoinSiswa_API.Models.PoinPelanggaran",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectNamespace.Controllers.PoinPelanggaranController",
+    "ContainingType": "PoinSiswa_API.Controllers.PoinPelanggaranController",
     "Method": "GetById",
     "RelativePath": "api/PoinPelanggaran/{id}",
     "HttpMethod": "GET",
@@ -51,7 +51,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "API.Models.PoinPelanggaran",
+        "Type": "PoinSiswa_API.Models.PoinPelanggaran",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectNamespace.Controllers.PoinPelanggaranController",
+    "ContainingType": "PoinSiswa_API.Controllers.PoinPelanggaranController",
     "Method": "Delete",
     "RelativePath": "api/PoinPelanggaran/{id}",
     "HttpMethod": "DELETE",
@@ -78,7 +78,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectNamespace.Controllers.PoinPelanggaranController",
+    "ContainingType": "PoinSiswa_API.Controllers.PoinPelanggaranController",
     "Method": "UpdateStatus",
     "RelativePath": "api/PoinPelanggaran/{id}/status",
     "HttpMethod": "PUT",
@@ -99,7 +99,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectNamespace.Controllers.PoinPelanggaranController",
+    "ContainingType": "PoinSiswa_API.Controllers.PoinPelanggaranController",
     "Method": "GetBySiswaId",
     "RelativePath": "api/PoinPelanggaran/siswa/{siswaId}",
     "HttpMethod": "GET",
@@ -114,7 +114,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[API.Models.PoinPelanggaran, PoinSiswa_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[PoinSiswa_API.Models.PoinPelanggaran, PoinSiswa_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectNamespace.Controllers.PoinPelanggaranController",
+    "ContainingType": "PoinSiswa_API.Controllers.PoinPelanggaranController",
     "Method": "GetTotalPoinDisetujui",
     "RelativePath": "api/PoinPelanggaran/siswa/{siswaId}/total-disetujui",
     "HttpMethod": "GET",
@@ -141,7 +141,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API.Controllers.SiswaController",
+    "ContainingType": "PoinSiswa_API.Controllers.SiswaController",
     "Method": "GetAll",
     "RelativePath": "api/Siswa",
     "HttpMethod": "GET",
@@ -151,7 +151,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API.Controllers.SiswaController",
+    "ContainingType": "PoinSiswa_API.Controllers.SiswaController",
     "Method": "Add",
     "RelativePath": "api/Siswa",
     "HttpMethod": "POST",
@@ -160,14 +160,14 @@
     "Parameters": [
       {
         "Name": "siswa",
-        "Type": "API.Models.Siswa",
+        "Type": "PoinSiswa_API.Models.Siswa",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API.Controllers.SiswaController",
+    "ContainingType": "PoinSiswa_API.Controllers.SiswaController",
     "Method": "GetById",
     "RelativePath": "api/Siswa/{id}",
     "HttpMethod": "GET",
@@ -183,7 +183,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API.Controllers.SiswaController",
+    "ContainingType": "PoinSiswa_API.Controllers.SiswaController",
     "Method": "Update",
     "RelativePath": "api/Siswa/{id}",
     "HttpMethod": "PUT",
@@ -197,14 +197,14 @@
       },
       {
         "Name": "siswa",
-        "Type": "API.Models.Siswa",
+        "Type": "PoinSiswa_API.Models.Siswa",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API.Controllers.SiswaController",
+    "ContainingType": "PoinSiswa_API.Controllers.SiswaController",
     "Method": "Delete",
     "RelativePath": "api/Siswa/{id}",
     "HttpMethod": "DELETE",
@@ -220,7 +220,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API.Controllers.SiswaController",
+    "ContainingType": "PoinSiswa_API.Controllers.SiswaController",
     "Method": "TambahPelanggaran",
     "RelativePath": "api/Siswa/{id}/pelanggaran",
     "HttpMethod": "POST",
@@ -234,7 +234,7 @@
       },
       {
         "Name": "pelanggaran",
-        "Type": "API.Models.PoinPelanggaran",
+        "Type": "PoinSiswa_API.Models.PoinPelanggaran",
         "IsRequired": true
       }
     ],
