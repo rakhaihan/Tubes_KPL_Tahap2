@@ -45,6 +45,13 @@ namespace PoinSiswa_Form.Forms
             this.Hide();
         }
 
+        private void btnDataPelanggaran_Click(object sender, EventArgs e)
+        {
+            var form = new FormCariDataPelanggaran();
+            form.Show();
+            this.Hide();
+        }
+
         private void FormBeranda_Load(object sender, EventArgs e)
         {
             dataGridView1.ColumnCount = 5;
@@ -90,5 +97,7 @@ namespace PoinSiswa_Form.Forms
         {
 
         }
+
+        
     }
 }

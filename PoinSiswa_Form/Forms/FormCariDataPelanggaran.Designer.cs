@@ -1,7 +1,9 @@
 ﻿namespace PoinSiswa_Form.Forms
 {
-    partial class FormBeranda
+    partial class FormCariDataPelanggaran
     {
+
+
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -20,27 +22,23 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            btnDataPelanggaran = new Button();
             btnLaporan = new Button();
             btnPeraturan = new Button();
             btnSiswa = new Button();
             btnBeranda = new Button();
             panel2 = new Panel();
             label1 = new Label();
-            dataGridView1 = new DataGridView();
             label2 = new Label();
-            btnDataPelanggaran = new Button();
+            label3 = new Label();
+            textBox1 = new TextBox();
+            button1 = new Button();
+            lblHasil = new Label();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -56,6 +54,19 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(357, 1225);
             panel1.TabIndex = 0;
+            // 
+            // btnDataPelanggaran
+            // 
+            btnDataPelanggaran.BackColor = SystemColors.GradientActiveCaption;
+            btnDataPelanggaran.Font = new Font("Microsoft Sans Serif", 10.2F);
+            btnDataPelanggaran.Location = new Point(14, 556);
+            btnDataPelanggaran.Margin = new Padding(4, 3, 4, 3);
+            btnDataPelanggaran.Name = "btnDataPelanggaran";
+            btnDataPelanggaran.Size = new Size(313, 125);
+            btnDataPelanggaran.TabIndex = 5;
+            btnDataPelanggaran.Text = "DATA PELANGGARAN";
+            btnDataPelanggaran.UseVisualStyleBackColor = false;
+            btnDataPelanggaran.Click += btnDataPelanggaran_Click;
             // 
             // btnLaporan
             // 
@@ -95,7 +106,6 @@
             // 
             // btnBeranda
             // 
-            btnBeranda.BackColor = SystemColors.GradientActiveCaption;
             btnBeranda.Font = new Font("Microsoft Sans Serif", 10.2F);
             btnBeranda.Location = new Point(14, 25);
             btnBeranda.Margin = new Padding(4, 3, 4, 3);
@@ -103,7 +113,7 @@
             btnBeranda.Size = new Size(313, 125);
             btnBeranda.TabIndex = 0;
             btnBeranda.Text = "BERANDA";
-            btnBeranda.UseVisualStyleBackColor = false;
+            btnBeranda.UseVisualStyleBackColor = true;
             btnBeranda.Click += btnBeranda_Click;
             // 
             // panel2
@@ -128,16 +138,6 @@
             label1.TabIndex = 0;
             label1.Text = "Sistem Poin Pelanggaran SMK Merdeka";
             // 
-            // dataGridView1
-            // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(417, 297);
-            dataGridView1.Margin = new Padding(4, 5, 4, 5);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 62;
-            dataGridView1.Size = new Size(953, 468);
-            dataGridView1.TabIndex = 2;
-            // 
             // label2
             // 
             label2.Font = new Font("Segoe UI", 30F);
@@ -145,54 +145,83 @@
             label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
             label2.Size = new Size(261, 113);
-            label2.TabIndex = 0;
-            label2.Text = "Beranda";
-            label2.Click += label2_Click_1;
+            label2.TabIndex = 2;
+            label2.Text = "Cari Data ";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.Location = new Point(502, 271);
+            label3.Margin = new Padding(4, 0, 4, 0);
+            label3.Name = "label3";
+            label3.Size = new Size(56, 32);
+            label3.TabIndex = 16;
+            label3.Text = "NIS:";
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(565, 274);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(150, 31);
+            textBox1.TabIndex = 17;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // button1
             // 
-            btnDataPelanggaran.Font = new Font("Microsoft Sans Serif", 10.2F);
-            btnDataPelanggaran.Location = new Point(14, 556);
-            btnDataPelanggaran.Margin = new Padding(4, 3, 4, 3);
-            btnDataPelanggaran.Name = "button1";
-            btnDataPelanggaran.Size = new Size(313, 125);
-            btnDataPelanggaran.TabIndex = 5;
-            btnDataPelanggaran.Text = "DATA PELANGGARAN";
-            btnDataPelanggaran.UseVisualStyleBackColor = true;
-            btnDataPelanggaran.Click += btnDataPelanggaran_Click;
+            button1.Location = new Point(750, 274);
+            button1.Name = "button1";
+            button1.Size = new Size(112, 34);
+            button1.TabIndex = 18;
+            button1.Text = "Cari";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
-            // FormBeranda
+            // lblHasil
+            // 
+            lblHasil.AutoSize = true;
+            lblHasil.Location = new Point(565, 347);
+            lblHasil.Name = "lblHasil";
+            lblHasil.Size = new Size(50, 25);
+            lblHasil.TabIndex = 19;
+            lblHasil.Text = "Hasil";
+            lblHasil.Click += lblHasil_Click;
+            // 
+            // FormCariDataPelanggaran
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1429, 798);
+            ClientSize = new Size(1429, 823);
+            Controls.Add(lblHasil);
+            Controls.Add(button1);
+            Controls.Add(textBox1);
+            Controls.Add(label3);
             Controls.Add(label2);
-            Controls.Add(dataGridView1);
             Controls.Add(panel2);
             Controls.Add(panel1);
             Margin = new Padding(4, 3, 4, 3);
-            Name = "FormBeranda";
+            Name = "FormCariDataPelanggaran";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "FormBeranda";
+            Text = "FormCariDataPelanggaran";
             WindowState = FormWindowState.Maximized;
             panel1.ResumeLayout(false);
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
-        #endregion
-
         private Panel panel1;
-        private Panel panel2;
-        private Label label1;
+        private Button button1;
         private Button btnDataPelanggaran;
         private Button btnLaporan;
         private Button btnPeraturan;
         private Button btnSiswa;
         private Button btnBeranda;
-        private DataGridView dataGridView1;
+        private Panel panel2;
+        private Label label1;
         private Label label2;
+        private Label label3;
+        private TextBox textBox1;
     }
 }

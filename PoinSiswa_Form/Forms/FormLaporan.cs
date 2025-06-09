@@ -45,6 +45,13 @@ namespace PoinSiswa_Form.Forms
 
         }
 
+        private void btnDataPelanggaran_Click(object sender, EventArgs e)
+        {
+            var form = new FormCariDataPelanggaran();
+            form.Show();
+            this.Hide();
+        }
+
         private void label3_Click(object sender, EventArgs e)
         {
 
@@ -162,5 +169,7 @@ namespace PoinSiswa_Form.Forms
         {
 
         }
+
+        
     }
 }
