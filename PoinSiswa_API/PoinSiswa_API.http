@@ -1,6 +1,6 @@
 @PoinSiswa_API_HostAddress = http://localhost:5141
 
-GET {{PoinSiswa_API_HostAddress}}/weatherforecast/
+GET {{PoinSiswa_API_HostAddress}}/
 Accept: application/json
 
 ###
