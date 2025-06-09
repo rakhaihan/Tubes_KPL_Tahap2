@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoinSiswa_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb735d78d6ebe9e6d25ac2de39470f8f1ec56c7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoinSiswa_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoinSiswa_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
