@@ -89,3 +89,25 @@ D:\TUBES THP 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\refint\P
 D:\TUBES THP 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.pdb
 D:\TUBES THP 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.genruntimeconfig.cache
 D:\TUBES THP 2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\ref\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.exe
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.deps.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.runtimeconfig.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\bin\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormBeranda.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormCariDataPelanggaran.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormLaporan.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormPeraturan.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Forms.FormSiswa.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.Properties.Resources.resources
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.GenerateResource.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfoInputs.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.AssemblyInfo.cs
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.csproj.CoreCompileInputs.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.sourcelink.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\refint\PoinSiswa_Form.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.pdb
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\PoinSiswa_Form.genruntimeconfig.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A2 Tubes\CLONE\final\v2\Tubes_KPL_Tahap2\PoinSiswa_Form\obj\Debug\net8.0-windows\ref\PoinSiswa_Form.dll
